@@ -1,5 +1,5 @@
 <template>
-      <a :href="`https://github.com/login/oauth/authorize?client_id=${clideId}&redirect_uri=http://localhost:8089/github`">GitHub获取</a>
+      <a :href="`https://github.com/login/oauth/authorize?client_id=${clideId}&redirect_uri=http://106.15.90.238:8089/github`">GitHub获取</a>
 </template>
 
 
