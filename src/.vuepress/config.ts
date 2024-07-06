@@ -43,6 +43,8 @@ export default defineUserConfig({
           // 字符串 - 页面文件路径
           '开发环境.md',
           '技术栈.md',
+          '配置QQ邮箱邮件服务.md',
+          '阿里云OSS配置.md'
         ],
       },
       {
