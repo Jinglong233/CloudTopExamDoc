@@ -36,12 +36,12 @@ export default defineUserConfig({
         ],
       },
       {
-        text: '开发环境+技术栈',
+        text: '项目的启动+技术栈',
         prefix: 'devEnv/',
         collapsible: true,
         children: [
           // 字符串 - 页面文件路径
-          '开发环境.md',
+          '项目的启动.md',
           '技术栈.md',
         ],
       },
